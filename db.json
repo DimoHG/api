@@ -1,16 +1,3 @@
 {
-  "replies": [
-    {
-      "type": "text",
-      "content": "Hello world!"
-    }
-  ],
-  "conversation": {
-    "language": "en",
-    "memory": {
-      "studentFacultyNumber": "121215074",
-      "studentSubject": "Physics",
-      "markValue":0
-    }
-  }
+  "answer":"HelloWorld";
 }
